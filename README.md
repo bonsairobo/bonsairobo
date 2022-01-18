@@ -1,6 +1,6 @@
 ### 'Sup nerdz 👋🤓
 
-[Libraries that I maintain](https://github.com/stars/bonsairobo/lists/my-stack)
+🦀🦀🦀 [Libraries that I maintain](https://github.com/stars/bonsairobo/lists/my-stack) 🦀🦀🦀
 
 - 🔭 I’m currently working on indie game development
 - 🌱 I’m currently learning anything involving mathematical analysis
