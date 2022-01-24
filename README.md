@@ -1,4 +1,4 @@
-### Voxel-Slinger, Code Artisan, Data Alchemist, and Full-Stackoverflow Developer
+### Voxel-Slinger, Code Artisan, Data Alchemist, and Full-StackOverflow Developer
 
 🦀🦀🦀 [Libraries that I maintain](https://github.com/stars/bonsairobo/lists/my-stack) 🦀🦀🦀
 
