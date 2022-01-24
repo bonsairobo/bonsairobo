@@ -1,4 +1,4 @@
-### 'Sup nerdz 👋🤓
+### Voxel-Slinger, Code Artisan, Data Alchemist, and Full-Stackoverflow Developer
 
 🦀🦀🦀 [Libraries that I maintain](https://github.com/stars/bonsairobo/lists/my-stack) 🦀🦀🦀
 
